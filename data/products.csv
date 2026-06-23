@@ -1,0 +1,51 @@
+Product,Category,Price,Cost,HoldingCost,CarbonFactor,SatisfactionCoeff,ShelfLife,LeadTime,DemandMean,DemandStd,ShelfAttractiveness,MinDisplay,MaxDisplay,ServiceLevelTarget
+Milk 1L,Dairy,60,40,2,3,10,7,2,80,15,1.50,10,60,0.98
+Curd 500g,Dairy,45,30,1,2,8,5,1,65,12,1.40,8,50,0.97
+Butter 100g,Dairy,55,35,2,3,7,20,3,40,8,1.30,5,40,0.95
+Cheese Slice,Dairy,120,80,3,4,9,30,4,35,7,1.60,5,35,0.95
+Paneer 200g,Dairy,90,60,2,3,9,10,2,50,10,1.50,8,45,0.96
+White Bread,Bakery,40,25,1,2,8,5,1,75,14,1.40,10,60,0.98
+Brown Bread,Bakery,45,28,1,2,7,5,1,55,10,1.30,8,45,0.96
+Burger Bun,Bakery,35,20,1,2,6,4,1,30,6,1.20,4,30,0.94
+Cake Roll,Bakery,80,50,2,3,7,7,2,25,5,1.20,3,25,0.93
+Muffin Pack,Bakery,70,45,2,3,6,10,2,20,4,1.10,3,20,0.92
+Eggs 12 Pack,Poultry,90,60,1,2,9,15,2,60,12,1.50,8,50,0.97
+Chicken Breast 500g,Meat,220,160,3,6,10,4,2,45,9,1.70,5,35,0.96
+Chicken Wings 500g,Meat,180,130,3,5,8,4,2,35,7,1.50,5,30,0.95
+Fish Fillet 500g,Seafood,280,210,4,7,10,3,2,30,6,1.60,4,25,0.95
+Prawns 250g,Seafood,320,250,4,8,9,2,2,20,4,1.60,3,20,0.94
+Apple 1kg,Fruits,140,90,1,2,9,15,2,70,14,1.40,10,55,0.98
+Banana 1 Dozen,Fruits,60,35,1,1,8,7,1,85,17,1.30,12,65,0.98
+Orange 1kg,Fruits,120,80,1,2,8,15,2,50,10,1.30,8,45,0.96
+Grapes 500g,Fruits,90,60,1,2,7,10,2,40,8,1.20,5,35,0.95
+Mango 1kg,Fruits,180,120,2,3,10,10,2,45,9,1.50,6,40,0.97
+Potato 1kg,Vegetables,40,20,1,1,7,30,3,90,18,1.00,15,70,0.99
+Onion 1kg,Vegetables,50,25,1,1,7,30,3,85,17,1.00,15,65,0.99
+Tomato 1kg,Vegetables,45,25,1,1,8,10,2,75,15,1.20,10,55,0.98
+Carrot 500g,Vegetables,35,20,1,1,7,15,2,40,8,1.10,5,35,0.95
+Capsicum 500g,Vegetables,60,35,1,2,8,10,2,35,7,1.20,5,30,0.95
+Rice 5kg,Staples,350,250,2,3,9,180,5,40,8,0.90,5,30,0.95
+Wheat Flour 5kg,Staples,240,170,2,3,8,180,5,45,9,0.90,5,35,0.95
+Sugar 1kg,Staples,55,40,1,2,7,365,5,50,10,0.80,8,40,0.95
+Salt 1kg,Staples,25,15,1,1,6,365,5,45,9,0.70,8,35,0.94
+Cooking Oil 1L,Staples,170,120,2,4,8,365,5,55,11,1.20,8,45,0.96
+Coca Cola 2L,Beverages,95,60,2,3,9,180,4,65,13,1.40,10,55,0.97
+Pepsi 2L,Beverages,95,60,2,3,8,180,4,55,11,1.30,8,50,0.96
+Orange Juice 1L,Beverages,120,80,2,3,8,60,3,45,9,1.30,6,40,0.95
+Mineral Water 1L,Beverages,20,10,1,1,6,365,3,100,20,1.00,20,80,0.99
+Energy Drink,Beverages,110,75,2,4,7,180,4,30,6,1.50,5,25,0.94
+Chocolate Bar,Snacks,50,30,1,2,8,365,5,60,12,1.50,8,50,0.97
+Potato Chips,Snacks,30,18,1,2,9,180,4,80,16,1.40,12,65,0.98
+Cookies Pack,Snacks,45,28,1,2,8,180,4,50,10,1.20,8,45,0.96
+Namkeen Pack,Snacks,40,25,1,2,7,180,4,45,9,1.10,6,40,0.95
+Instant Noodles,Snacks,20,12,1,1,9,365,5,90,18,1.30,15,70,0.99
+Toothpaste 150g,Personal Care,95,60,1,2,8,365,7,35,7,0.90,5,30,0.95
+Shampoo 180ml,Personal Care,180,120,2,3,8,365,7,30,6,1.00,4,25,0.94
+Soap Bar,Personal Care,35,20,1,1,7,365,7,55,11,0.80,8,45,0.96
+Face Wash,Personal Care,140,90,2,3,7,365,7,25,5,1.00,3,20,0.93
+Hand Sanitizer,Personal Care,75,45,1,2,8,365,7,40,8,0.90,5,35,0.95
+Laundry Detergent 1kg,Household,220,150,2,4,8,365,7,30,6,0.80,4,25,0.94
+Dishwash Liquid,Household,110,70,2,3,7,365,7,35,7,0.80,5,30,0.94
+Floor Cleaner 1L,Household,180,120,2,4,7,365,7,25,5,0.70,3,20,0.93
+Tissue Paper Pack,Household,90,60,1,2,6,365,7,40,8,0.70,5,35,0.94
+Garbage Bags,Household,120,80,1,2,6,365,7,20,4,0.60,3,15,0.92
